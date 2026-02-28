@@ -1,5 +1,7 @@
 AI Resume Intelligence System
 
+![Project Screenshot](Screenshot 2026-02-28.png)
+
 A simple AI-based system that analyzes resumes to extract key details, identify skills, and recommend job roles using Machine Learning and NLP.
 
 ⸻
